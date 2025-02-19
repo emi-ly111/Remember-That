@@ -18,7 +18,7 @@ O objetivo principal deste protótipo é demonstrar a interface e o fluxo de uma
 - _CSS3_: Estilização e design responsivo.
 - _SCSS_: Framework CSS para estruturar o estilo da página.
 - _JavaScript_: Interatividade, como o menu mobile.
- -_Google Maps API_: Integração do mapa na seção de contato.
+-_Google Maps API_: Integração do mapa na seção de contato.
 
 # Como Visualizar
 1. Clone o repositório: `git clone https://github.com/emi-ly111/Remember-That.git`
