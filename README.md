@@ -21,5 +21,4 @@ O objetivo principal deste protótipo é demonstrar a interface e o fluxo de uma
 -_Google Maps API_: Integração do mapa na seção de contato.
 
 # Como Visualizar
-1. Clone o repositório: `git clone https://github.com/emi-ly111/Remember-That.git`
-2. Abra o arquivo _index.html_ no seu navegador.
+-> Abra este link: https://emi-ly111.github.io/Remember-That/
